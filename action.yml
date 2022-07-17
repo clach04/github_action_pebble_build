@@ -48,7 +48,7 @@ jobs:
       - name: pebble-build
         run: yes | sdk/bin/pebble build
       - name: Upload PBW
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: PebblePBW
-          path: '${{ github.workspace }}/build/*.pbw'
+          path: ./**/build/*.pbw
