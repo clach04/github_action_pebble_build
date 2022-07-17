@@ -1,4 +1,5 @@
 name: PebbleBuild
+description: Builds Pebble Apps and Watchfaces with Rebble/Pebble SDK v4.5
 # from https://github.com/clach04/github_action_pebble_build
 
 # Controls when the workflow will run
