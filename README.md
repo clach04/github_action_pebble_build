@@ -14,6 +14,8 @@ Currently works if copy/pasted into project. NOTE remove marked lines https://gi
 
 To see this in action see https://github.com/clach04/pebble_watchface_framework
 
+NOTE Downloads are ONLY available when logged into Github, otherwise, the Artifacts "PebblePBW" text is not a link (without any hint as to what is going on).
+
 ## Thanks
 
 Thanks and kudos to:
